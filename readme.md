@@ -3,4 +3,4 @@ sent from the MCU.
 
 ![image](wireshark.png)
 
-![alt text](wireshark2.png)
+![image](wireshark2.png)
