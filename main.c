@@ -116,10 +116,6 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-    for (size_t i = 0; i < ETH_RX_DESC_CNT; i++)
-    {
-      DMARxDscrTab[i].DESC0 |= ETH_DMARXDESC_OWN;
-    }
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
